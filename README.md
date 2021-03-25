@@ -1,0 +1,3 @@
+# IMDb_Project
+
+See IMDb_Walkthrough.ipynb for walkthrough of web scraping and analysis using Python and (briefly) SQL. If IMDb_Walkthrough.ipynb won't load, visit 
